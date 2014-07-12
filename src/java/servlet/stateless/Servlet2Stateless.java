@@ -68,7 +68,7 @@ public class Servlet2Stateless
             out.println("<CENTER> <FONT size=+1> Servlet2Stateless:: Please enter your name </FONT> </CENTER> <p> ");
             out.println("<form method=\"POST\">");
             out.println("<TABLE>");
-            out.println("<tr><td>Name: </td>");
+            out.println("<tr><td>Nombre: </td>");
             out.println("<td><input type=\"text\" name=\"name\"> </td>");
             out.println("</tr><tr><td></td>");
             out.println("<td><input type=\"submit\" name=\"sub\"> </td>");
