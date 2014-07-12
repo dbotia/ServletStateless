@@ -36,7 +36,7 @@ import javax.ejb.Stateless;
 public class StatelessSessionBean {
 
     public String sayHello(String name) {
-        return "Hello, " + name + "!\n";
+        return "Hola esta es prueba, " + name + "!\n";
     }
 
 }
